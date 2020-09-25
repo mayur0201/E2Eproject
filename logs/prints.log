@@ -1,0 +1,147 @@
+08:36:38.752 [main] INFO  resources.base - Driver Initialize
+08:36:42.113 [main] INFO  resources.base - Site Reached
+08:36:47.145 [main] INFO  resources.base - Firstuser@abc.com
+08:36:47.321 [main] INFO  resources.base - First pswd
+08:36:50.392 [main] INFO  resources.base - Seconduser@abc.com
+08:36:50.548 [main] INFO  resources.base - Second Pswd
+08:36:50.979 [main] INFO  resources.base - Text is equals
+08:39:52.457 [main] INFO  resources.base - Driver Initialize
+08:39:55.818 [main] INFO  resources.base - Site Reached
+08:40:00.907 [main] INFO  resources.base - Firstuser@abc.com
+08:40:01.103 [main] INFO  resources.base - First pswd
+08:40:04.359 [main] INFO  resources.base - Seconduser@abc.com
+08:40:04.531 [main] INFO  resources.base - Second Pswd
+08:40:04.810 [main] INFO  resources.base - Text is equals
+10:43:26.765 [main] INFO  resources.base - Firstuser@abc.com
+10:43:28.680 [main] INFO  resources.base - First pswd
+10:43:32.055 [main] INFO  resources.base - Seconduser@abc.com
+10:43:32.201 [main] INFO  resources.base - Second Pswd
+10:43:36.654 [main] INFO  resources.base - Driver Initialize
+10:43:42.310 [main] INFO  resources.base - Site Reached
+10:43:42.393 [main] INFO  resources.base - Text is equals
+11:42:24.318 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+11:42:32.641 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+11:42:32.901 [TestNG-tests-1] INFO  resources.base - First pswd
+11:42:32.923 [TestNG-tests-2] INFO  resources.base - Site Reached
+11:42:39.505 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+11:42:39.622 [TestNG-tests-1] INFO  resources.base - Second Pswd
+11:47:58.386 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+11:48:05.562 [TestNG-tests-2] INFO  resources.base - Site Reached
+11:48:09.438 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+11:48:09.663 [TestNG-tests-1] INFO  resources.base - First pswd
+11:48:13.259 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+11:48:13.411 [TestNG-tests-1] INFO  resources.base - Second Pswd
+11:49:48.260 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+11:49:53.865 [TestNG-tests-2] INFO  resources.base - Site Reached
+11:49:54.225 [TestNG-tests-2] INFO  resources.base - Text is equals
+11:49:54.450 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+11:49:55.189 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+11:49:55.407 [TestNG-tests-1] INFO  resources.base - First pswd
+11:49:58.897 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+11:49:59.009 [TestNG-tests-1] INFO  resources.base - Second Pswd
+11:59:47.656 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+11:59:57.624 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+11:59:57.867 [TestNG-tests-1] INFO  resources.base - First pswd
+12:00:01.645 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+12:00:01.855 [TestNG-tests-1] INFO  resources.base - Second Pswd
+12:00:04.521 [TestNG-tests-2] INFO  resources.base - Site Reached
+12:00:04.616 [TestNG-tests-2] INFO  resources.base - Text is equals
+12:00:04.747 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+12:00:42.060 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+12:00:49.496 [TestNG-tests-2] INFO  resources.base - Site Reached
+12:00:51.144 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+12:00:51.286 [TestNG-tests-1] INFO  resources.base - First pswd
+12:00:54.395 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+12:00:54.544 [TestNG-tests-1] INFO  resources.base - Second Pswd
+12:13:08.318 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+12:13:15.429 [TestNG-tests-2] INFO  resources.base - Site Reached
+12:13:17.546 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+12:13:17.658 [TestNG-tests-1] INFO  resources.base - First pswd
+12:13:20.813 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+12:13:20.960 [TestNG-tests-1] INFO  resources.base - Second Pswd
+12:15:58.994 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+12:16:07.630 [TestNG-tests-2] INFO  resources.base - Site Reached
+12:16:10.191 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+12:16:10.307 [TestNG-tests-1] INFO  resources.base - First pswd
+12:16:13.388 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+12:16:13.556 [TestNG-tests-1] INFO  resources.base - Second Pswd
+14:21:25.875 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+14:21:32.382 [TestNG-tests-2] INFO  resources.base - Site Reached
+14:21:32.664 [TestNG-tests-2] INFO  resources.base - Text is equals
+14:21:32.785 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+14:21:36.019 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+14:21:36.148 [TestNG-tests-1] INFO  resources.base - First pswd
+14:21:39.466 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+14:21:39.585 [TestNG-tests-1] INFO  resources.base - Second Pswd
+14:30:26.471 [main] INFO  resources.base - Firstuser@abc.com
+14:30:26.643 [main] INFO  resources.base - First pswd
+14:30:29.733 [main] INFO  resources.base - Seconduser@abc.com
+14:30:29.871 [main] INFO  resources.base - Second Pswd
+14:30:34.480 [main] INFO  resources.base - Driver Initialize
+14:30:38.386 [main] INFO  resources.base - Site Reached
+14:30:38.456 [main] INFO  resources.base - Text is equals
+14:30:38.584 [main] INFO  resources.base - Navigation bar is displayed
+14:54:42.068 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+14:54:49.246 [TestNG-tests-2] INFO  resources.base - Site Reached
+14:54:49.417 [TestNG-tests-2] INFO  resources.base - Text is equals
+14:54:49.604 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+14:54:51.159 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+14:54:51.385 [TestNG-tests-1] INFO  resources.base - First pswd
+14:54:55.786 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+14:54:56.044 [TestNG-tests-1] INFO  resources.base - Second Pswd
+15:15:55.369 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+15:16:01.019 [TestNG-tests-2] INFO  resources.base - Site Reached
+15:16:01.222 [TestNG-tests-2] INFO  resources.base - Text is equals
+15:16:01.605 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+15:20:45.273 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+15:20:51.490 [TestNG-tests-2] INFO  resources.base - Site Reached
+15:20:51.637 [TestNG-tests-2] INFO  resources.base - Text is equals
+15:20:51.929 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+15:27:04.372 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+15:27:10.294 [TestNG-tests-2] INFO  resources.base - Site Reached
+15:27:10.726 [TestNG-tests-2] INFO  resources.base - Text is equals
+15:27:10.940 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+15:31:00.644 [main] INFO  resources.base - Firstuser@abc.com
+15:31:00.879 [main] INFO  resources.base - First pswd
+15:31:05.023 [main] INFO  resources.base - Seconduser@abc.com
+15:31:05.174 [main] INFO  resources.base - Second Pswd
+15:37:06.833 [main] INFO  resources.base - Firstuser@abc.com
+15:37:06.973 [main] INFO  resources.base - First pswd
+15:37:09.990 [main] INFO  resources.base - Seconduser@abc.com
+15:37:10.206 [main] INFO  resources.base - Second Pswd
+15:42:07.097 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+15:42:12.736 [TestNG-tests-2] INFO  resources.base - Site Reached
+15:42:12.884 [TestNG-tests-2] INFO  resources.base - Text is equals
+15:42:13.127 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+15:42:15.080 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+15:42:15.254 [TestNG-tests-1] INFO  resources.base - First pswd
+15:42:19.107 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+15:42:19.242 [TestNG-tests-1] INFO  resources.base - Second Pswd
+15:43:15.845 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+15:43:22.826 [TestNG-tests-2] INFO  resources.base - Site Reached
+15:43:24.552 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+15:43:24.707 [TestNG-tests-1] INFO  resources.base - First pswd
+15:43:28.419 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+15:43:28.550 [TestNG-tests-1] INFO  resources.base - Second Pswd
+15:48:59.934 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+15:49:06.520 [TestNG-tests-2] INFO  resources.base - Site Reached
+15:49:08.744 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+15:49:09.022 [TestNG-tests-1] INFO  resources.base - First pswd
+15:49:12.629 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+15:49:12.755 [TestNG-tests-1] INFO  resources.base - Second Pswd
+16:06:17.098 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+16:06:29.380 [TestNG-tests-2] INFO  resources.base - Site Reached
+16:06:29.610 [TestNG-tests-2] INFO  resources.base - Text is equals
+16:06:29.945 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+16:06:31.059 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+16:06:31.334 [TestNG-tests-1] INFO  resources.base - First pswd
+16:06:35.554 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+16:06:35.688 [TestNG-tests-1] INFO  resources.base - Second Pswd
+16:10:51.386 [TestNG-tests-2] INFO  resources.base - Driver Initialize
+16:10:59.233 [TestNG-tests-2] INFO  resources.base - Site Reached
+16:10:59.786 [TestNG-tests-2] INFO  resources.base - Text is equals
+16:11:00.346 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+16:11:03.329 [TestNG-tests-1] INFO  resources.base - Firstuser@abc.com
+16:11:03.538 [TestNG-tests-1] INFO  resources.base - First pswd
+16:11:08.029 [TestNG-tests-1] INFO  resources.base - Seconduser@abc.com
+16:11:08.203 [TestNG-tests-1] INFO  resources.base - Second Pswd

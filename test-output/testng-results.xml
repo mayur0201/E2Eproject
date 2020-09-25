@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-24T16:06:08 IST" name="Suite" finished-at="2020-09-24T16:06:37 IST" duration-ms="29093">
+    <groups>
+    </groups>
+    <test started-at="2020-09-24T16:06:08 IST" name="Validating tile" finished-at="2020-09-24T16:06:32 IST" duration-ms="23655">
+      <class name="Project.validateTitleTest">
+        <test-method is-config="true" signature="initial()[pri:0, instance:Project.validateTitleTest@533377b]" started-at="2020-09-24T16:06:08 IST" name="initial" finished-at="2020-09-24T16:06:29 IST" duration-ms="20626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="basetest()[pri:0, instance:Project.validateTitleTest@533377b]" started-at="2020-09-24T16:06:29 IST" name="basetest" finished-at="2020-09-24T16:06:29 IST" duration-ms="565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basetest -->
+        <test-method is-config="true" signature="terdown()[pri:0, instance:Project.validateTitleTest@533377b]" started-at="2020-09-24T16:06:30 IST" name="terdown" finished-at="2020-09-24T16:06:32 IST" duration-ms="2357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+      </class> <!-- Project.validateTitleTest -->
+    </test> <!-- Validating tile -->
+    <test started-at="2020-09-24T16:06:08 IST" name="Validating home" finished-at="2020-09-24T16:06:37 IST" duration-ms="29093">
+      <class name="Project.HomePageTest">
+        <test-method is-config="true" signature="initial()[pri:0, instance:Project.HomePageTest@3f1c5af9]" started-at="2020-09-24T16:06:08 IST" name="initial" finished-at="2020-09-24T16:06:17 IST" duration-ms="8343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method signature="basetest(java.lang.String, java.lang.String)[pri:0, instance:Project.HomePageTest@3f1c5af9]" started-at="2020-09-24T16:06:17 IST" name="basetest" data-provider="getdata" finished-at="2020-09-24T16:06:31 IST" duration-ms="14033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firstuser@abc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[First pswd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basetest -->
+        <test-method signature="basetest(java.lang.String, java.lang.String)[pri:0, instance:Project.HomePageTest@3f1c5af9]" started-at="2020-09-24T16:06:31 IST" name="basetest" data-provider="getdata" finished-at="2020-09-24T16:06:36 IST" duration-ms="4430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Seconduser@abc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Second Pswd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basetest -->
+        <test-method is-config="true" signature="terdown()[pri:0, instance:Project.HomePageTest@3f1c5af9]" started-at="2020-09-24T16:06:36 IST" name="terdown" finished-at="2020-09-24T16:06:37 IST" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+      </class> <!-- Project.HomePageTest -->
+    </test> <!-- Validating home -->
+  </suite> <!-- Suite -->
+</testng-results>
