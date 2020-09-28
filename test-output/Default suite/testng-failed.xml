@@ -5,7 +5,7 @@
     <classes>
       <class name="Project.HomePageTest">
         <methods>
-          <include name="basetest" invocation-numbers="0 1"/>
+          <include name="basetest"/>
           <include name="terdown"/>
           <include name="initial"/>
         </methods>

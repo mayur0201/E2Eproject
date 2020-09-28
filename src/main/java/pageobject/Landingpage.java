@@ -13,10 +13,10 @@ public class Landingpage {
 		this.driver = driver;
 	}
 	
-	By login=By.xpath("//*[@id=\"homepage\"]/header/div[1]/div/nav/ul/li[4]/a");
-	By NavBar=By.cssSelector(".nav.navbar-nav.navbar-right>li>a");
-    By title = By.xpath("//div/h2[text()='Featured Courses']");
-	By popup=By.xpath("//button[text()='NO THANKS']");
+	private By login=By.xpath("//*[@id=\"homepage\"]/header/div[1]/div/nav/ul/li[4]/a");
+	private By NavBar=By.cssSelector(".nav.navbar-nav.navbar-right>li>a");
+    private By title = By.xpath("//div/h2[text()='Featured Courses']");
+	private By popup=By.xpath("//button[text()='NO THANKS']");
 	
 	
 	

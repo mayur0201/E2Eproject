@@ -10,9 +10,9 @@ public class LoginPage {
 	
 	
 	
-	By email=By.id("user_email");
-	By password=By.id("user_password");
-	By login = By.name("commit");
+	private By email=By.id("user_email");
+	private By password=By.id("user_password");
+	private By login = By.name("commit");
 
 	
 	
